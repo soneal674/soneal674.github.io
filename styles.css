@@ -12,6 +12,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .skill-list {
+    padding-left: 25px;
+}
+
+.skill-list-holder {
     display: inline-block;
     padding-right: 10px;
     vertical-align: top;
