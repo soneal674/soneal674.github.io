@@ -1,4 +1,5 @@
 body {
+    background-color: #dddddd;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -15,12 +16,12 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 25px;
 }
 
+.skill-list-header {
+    margin-bottom: 0;
+}
+
 .skill-list-holder {
     display: inline-block;
     padding-right: 10px;
     vertical-align: top;
-}
-
-#skill-list-header {
-    margin-bottom: 0;
 }
