@@ -10,3 +10,9 @@ h1, h2, h3, h4, h5, h6 {
     margin: auto;
     max-width: 1200px;
 }
+
+.skill-list {
+    display: inline-block;
+    padding-right: 10px;
+    vertical-align: top;
+}
